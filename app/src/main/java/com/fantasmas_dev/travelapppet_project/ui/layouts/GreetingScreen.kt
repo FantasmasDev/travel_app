@@ -19,7 +19,6 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import com.fantasmas_dev.travelapppet_project.R
 import com.fantasmas_dev.travelapppet_project.ui.theme.ButtonBlue
 import com.fantasmas_dev.travelapppet_project.ui.theme.Dimens
